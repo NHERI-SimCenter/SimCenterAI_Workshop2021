@@ -34,7 +34,7 @@ ideal flow of lessons and activities is provided in the "By Day" listing below.
   * Exercise
     
 
-* Day 2 - Obcet Detection
+* Day 2 - Object Detection
   
   * ITEM 1
   * ITEM 2
