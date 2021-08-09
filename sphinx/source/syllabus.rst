@@ -35,7 +35,7 @@ ideal flow of lessons and activities is provided in the "By Day" listing below.
 
   * In class Exercises
      * Exercise 1: Conventional Machine Learning: `Notebook <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/day1/Part-1.ipynb>`_
-     * Exercise 2: Image Classification: `Notebook <https://colab.research.google.com/drive/1zspDwK-rGA1gYcHZDnrQr_3Z27JL-ooS?usp=sharing>`_, `Video <https://youtu.be/mgk47La_qyc>`_
+     * Exercise 2: Image Classification: `Notebook <https://drive.google.com/file/d/1YNAzDri4S6H6KnltgurK4VFhEFsyWDWC/view?usp=sharing>`_, `Video <https://youtu.be/mgk47La_qyc>`_
      * Exercise 3: BRAILS Modules: `Notebook <https://colab.research.google.com/drive/1zspDwK-rGA1gYcHZDnrQr_3Z27JL-ooS?usp=sharing>`_
      * Exercise 4: BRAILS City Builder: `Notebook <https://colab.research.google.com/drive/1tG6xVRCmDyi6K8TWgoNd_31vV034VcSO?usp=sharing>`_
 
