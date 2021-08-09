@@ -23,15 +23,15 @@ ideal flow of lessons and activities is provided in the "By Day" listing below.
 	we meet.   
 
 
-* Day 1 - Introduction and Image Classification
+* Day 1 - Introduction and `Image Classification <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part1-2.pdf>`_, and `BRAILS <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part3.pdf>`_
 
-  * `Welcome Message and SimCenter Intro <https://github.com/NHERI-SimCenter/SimCenterBootcamp2020/blob/master/presentations/BootCampIntro.pdf>`_
-
-  * Presentation (`Slides <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/>`_)
+  * Material
+    
      * Introduction
      * Conventional Machine Learning: `Video <https://youtu.be/JuWQmyGzEG0>`_ 
      * Neural Networks and Deep Learning: `Video <https://youtu.be/u8At5mqwyKE>`_ 
-     * BRAILS 
+     * BRAILS
+
 
   * In class Exercises
      * Exercise 1: Conventional Machine Learning: `Notebook <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/day1/Part-1.ipynb>`_
@@ -39,22 +39,21 @@ ideal flow of lessons and activities is provided in the "By Day" listing below.
      * Exercise 3: BRAILS Modules: `Notebook <https://colab.research.google.com/drive/1zspDwK-rGA1gYcHZDnrQr_3Z27JL-ooS?usp=sharing>`_
      * Exercise 4: BRAILS City Builder: `Notebook <https://colab.research.google.com/drive/1tG6xVRCmDyi6K8TWgoNd_31vV034VcSO?usp=sharing>`_
 
-* Day 2 - Object Detection
-  
-  * ITEM 1
-  * ITEM 2
-  * ITEM 3
-  * Exercise
+    
+* Day 2 - `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/ObjectDetection.pdf>`_
 
-* Day 3 - Neural Network Architectures
+     * Why Use Object Detection
+     * Object Detection Algorithms
+     * Datasets for Object Detection
+     * A Framework for Model Development
 
-  * `Presentation <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_, Videos & Example Jupyter Notebooks
+* Day 3 - `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_
     
      * Multi-Layer Perceptron: `Video <http://opensees.berkeley.edu>`_ and `Notebook Demo <http://opensees.berkeley.edu>`_
      * Convolutional Neural Networks
      * Attention Networks
      * Transformers
 
-  * In class Exercises
+     * In class Exercises
      * Exercise 1: `Hand-written digit classification with multi-layer perceptron <http://opensees.berkeley.edu>`_
      * Exercise 2: `Roof classification with Transformation Learning <http://opensees.berkeley.edu>`_
