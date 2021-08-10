@@ -19,21 +19,23 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
 	Those exercises are only effective if you did your self-study 
 	assignment of watching the videos before we meet.
 
+.. warning::
+    To run Exercise 4 in day 1, you need to get a Google Maps API key before the class. Follow this instruction: "Using API Keys" in `this link <https://developers.google.com/maps/documentation/embed/get-api-key>`_. 
 
-* Day 1 - Introduction and `Image Classification <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part1-2.pdf>`_, and `BRAILS <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part3.pdf>`_
+* Day 1 - Introduction to Machine Learning (`Part1-2 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part1-2.pdf>`_ and `Part3 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part3.pdf>`_) and BRAILS
 
   * Pre-class content
-     * Introduction
-     * Conventional Machine Learning: `Video <https://youtu.be/JuWQmyGzEG0>`_ 
-     * Neural Networks and Deep Learning: `Video <https://youtu.be/u8At5mqwyKE>`_ 
-     * BRAILS
-
+     * Introduction to Machine Learning: `Video <https://youtu.be/Dt5P1pQ2WJQ>`_ 
+     * Neural Networks and Deep Learning: `Video <https://youtu.be/BDK71LOn0xs>`_ 
+     * Image Classification in Tensorflow: `Video <https://youtu.be/JOrtCP9Fvjk>`_ 
+     * Warm up with BRAILS: `Introduction <https://nheri-simcenter.github.io/BRAILS-Documentation/common/user_manual/about.html>`_, `Installation <https://nheri-simcenter.github.io/BRAILS-Documentation/common/user_manual/installation.html>`_ (You have to install if you plan to run Exercises 3 and 4 locally on your computer. Alternatively, we also provide notebooks that can run on Google Colab, which requires that you have a Google account. -> `Run Google Colab  <https://research.google.com/colaboratory/>`_.)
+    
 
   * In-class Exercises
-     * Exercise 1: Conventional Machine Learning: `Notebook <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/day1/Part-1.ipynb>`_
-     * Exercise 2: Image Classification: `Notebook <https://drive.google.com/file/d/1YNAzDri4S6H6KnltgurK4VFhEFsyWDWC/view?usp=sharing>`_, `Video <https://youtu.be/mgk47La_qyc>`_
+     * Exercise 1: Conventional Machine Learning: `Notebook <https://colab.research.google.com/drive/1fllxEh73-yhcfRskBQI-0togLFlwf6xO?usp=sharing>`_
+     * Exercise 2: Image Classification: `Notebook <https://colab.research.google.com/drive/1_QolEQrre_hOKPu5poQk5uQ3zW0EMskv?usp=sharing>`_
      * Exercise 3: BRAILS Modules: `Notebook <https://colab.research.google.com/drive/1zspDwK-rGA1gYcHZDnrQr_3Z27JL-ooS?usp=sharing>`_
-     * Exercise 4: BRAILS City Builder: `Notebook <https://colab.research.google.com/drive/1tG6xVRCmDyi6K8TWgoNd_31vV034VcSO?usp=sharing>`_
+     * Exercise 4: BRAILS City Builder: `Notebook <https://colab.research.google.com/drive/1tG6xVRCmDyi6K8TWgoNd_31vV034VcSO?usp=sharing>`_ 
 
     
 * Day 2 - `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/ObjectDetection.pdf>`_
@@ -42,7 +44,7 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
      * Why Use Object Detection: `Video <https://youtu.be/oWD5N80Vpz8>`_ 
      * Object Detection Algorithms: `Video <https://youtu.be/4Rc4qs7WQSQ>`_ 
      * Datasets for Object Detection: `Video <https://youtu.be/MZ3EAp4QHug>`_ 
-     * A Framework for Model Development:
+     * A Framework for Model Development: Coming soon
      
   * In-class Exercises
      * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://opensees.berkeley.edu>`_
@@ -57,5 +59,5 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
      * Transformers: `Video <https://youtu.be/XM9R2H_Sw_I>`_ 
 
   * In-class Exercises
-     * Exercise 1: `Hand-written digit classification with multi-layer perceptron <http://opensees.berkeley.edu>`_
-     * Exercise 2: `Roof classification with Transformation Learning <http://opensees.berkeley.edu>`_
+     * Exercise 1: `Hand-written digit classification with multi-layer perceptron <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/exercises/day3/exercise1.ipynb>`_
+     * Exercise 2: `Roof classification with Transformation Learning <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/exercises/day3/exercise2.ipynb>`_
