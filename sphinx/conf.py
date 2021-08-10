@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Programming Bootcamp 2020'
-copyright = '2020, Peter Mackenzie-Helnwein, Frank McKenna'
+project = '2021 AI Workshop'
+copyright = '2021, Peter Mackenzie-Helnwein, Frank McKenna'
 author = 'Peter Mackenzie-Helnwein, Frank McKenna'
 
 rst_prolog = """
@@ -36,7 +36,9 @@ rst_epilog = """
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+	"sphinxcontrib.spelling"
 ]
+spelling_word_list_filename = ["spelling.txt"]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -54,6 +56,12 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 #
 #html_theme = 'bizstyle'
 html_theme = 'sphinx_rtd_theme'
+html_theme_options = {
+  "logo_only": True,
+  "prev_next_buttons_location": None,
+  "style_nav_header_background": "#F2F2F2"
+}
+html_logo = logo = "_static/logo.png"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
