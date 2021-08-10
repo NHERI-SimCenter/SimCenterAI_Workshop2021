@@ -9,9 +9,9 @@ Welcome to the NHERI-SimCenter 2021 AI Workshop
 
 .. note::
 
-   #.  Course material is available through 
-   the `NHERI-SimCenter/SimCenterAI_Workshop2021 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021>`_
-   repository on https://github.com
+   #. Course material is available through 
+      the `NHERI-SimCenter/SimCenterAI_Workshop2021 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021>`_
+      repository on https://github.com
 
    #. You will be using Jupyter Notebooks to perform the exercises.
 

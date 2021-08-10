@@ -26,6 +26,10 @@ Day 1 - Introduction and `Image Classification <https://github.com/NHERI-SimCent
 
 * In-class Exercises
    * Exercise 1: Conventional Machine Learning: `Notebook <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/day1/Part-1.ipynb>`_
+
+     * .. image:: https://mybinder.org/badge_logo.svg
+          :target: https://mybinder.org/v2/gh/claudioperez/SimCenterAI_Workshop2021/HEAD?filepath=notebooks%2Fday1%2FPart-1.ipynb
+
    * Exercise 2: Image Classification: `Notebook <https://drive.google.com/file/d/1YNAzDri4S6H6KnltgurK4VFhEFsyWDWC/view?usp=sharing>`_, `
 
       .. raw:: html
