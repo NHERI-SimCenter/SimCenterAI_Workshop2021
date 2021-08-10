@@ -22,7 +22,7 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
 .. warning::
     To run Exercise 4 in day 1, you need to get a Google Maps API key before the class. Follow this instruction: "Using API Keys" in `this link <https://developers.google.com/maps/documentation/embed/get-api-key>`_. 
 
-* Day 1 - Introduction and `Image Classification <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part1-2.pdf>`_, and `BRAILS <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part3.pdf>`_
+* Day 1 - Introduction to Machine Learning (`Part1-2 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part1-2.pdf>`_ and `Part3 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part3.pdf>`_) and BRAILS
 
   * Pre-class content
      * Introduction
@@ -33,8 +33,8 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
     
 
   * In-class Exercises
-     * Exercise 1: Conventional Machine Learning: `Notebook <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/day1/Part-1.ipynb>`_
-     * Exercise 2: Image Classification: `Notebook <https://drive.google.com/file/d/1YNAzDri4S6H6KnltgurK4VFhEFsyWDWC/view?usp=sharing>`_
+     * Exercise 1: Conventional Machine Learning: `Notebook <https://colab.research.google.com/drive/1fllxEh73-yhcfRskBQI-0togLFlwf6xO?usp=sharing>`_
+     * Exercise 2: Image Classification: `Notebook <https://colab.research.google.com/drive/1_QolEQrre_hOKPu5poQk5uQ3zW0EMskv?usp=sharing>`_
      * Exercise 3: BRAILS Modules: `Notebook <https://colab.research.google.com/drive/1zspDwK-rGA1gYcHZDnrQr_3Z27JL-ooS?usp=sharing>`_
      * Exercise 4: BRAILS City Builder: `Notebook <https://colab.research.google.com/drive/1tG6xVRCmDyi6K8TWgoNd_31vV034VcSO?usp=sharing>`_ 
 
