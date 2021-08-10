@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
-  <title>TACC-Frontera &mdash; Programming Bootcamp 2020  documentation</title>
+  <title>TACC-Frontera &mdash; 2021 AI Workshop  documentation</title>
   
 
   
@@ -43,7 +43,13 @@
     
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="prev" title="Google Colab" href="colab.html" /> 
+    <link rel="prev" title="Google Colab" href="colab.html" />
+<script src="https://cdn.jsdelivr.net/npm/vega@5.12.1"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.13.1"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.8.0"></script>
+<style media="screen">.vega-actions a {margin-right: 5px;}</style>
+<link href="../_static/css/bootstrap.css" rel="stylesheet">
+
 </head>
 
 <body class="wy-body-for-nav">
@@ -53,22 +59,28 @@
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side">
       <div class="wy-side-scroll">
-        <div class="wy-side-nav-search" >
+        <div class="wy-side-nav-search"  style="background: #F2F2F2" >
           
+<a href="https://simcenter.designsafe-ci.org/" style="margin-bottom: 0px;">
+  <img src="../_static/SimCenter-Only.png" class="logo" alt="Org-Logo" />
+</a>
+<hr style="margin: 0px;">
 
-          
-            <a href="../index.html" class="icon icon-home"> Programming Bootcamp 2020
-          
+  <a href="../index.html">
 
-          
-          </a>
 
-          
-            
-            
-          
 
-          
+  
+  <img src="../_static/logo.png" class="logo" alt="Logo"/>
+
+</a>
+
+
+  
+  
+
+
+
 <div role="search">
   <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
     <input type="text" name="q" placeholder="Search docs" />
@@ -77,7 +89,7 @@
   </form>
 </div>
 
-          
+
         </div>
 
         
@@ -88,10 +100,11 @@
               
             
             
-              <p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+              <p class="caption"><span class="caption-text">Contents:</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="presenters.html">Presenters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="syllabus.html">Syllabus</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lecture_videos.html">Content</a></li>
 <li class="toctree-l1"><a class="reference internal" href="colab.html">Google Colab</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">TACC-Frontera</a></li>
 </ul>
@@ -109,7 +122,7 @@
       <nav class="wy-nav-top" aria-label="top navigation">
         
           <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-          <a href="../index.html">Programming Bootcamp 2020</a>
+          <a href="../index.html">2021 AI Workshop</a>
         
       </nav>
 
@@ -163,8 +176,8 @@
             
   <div class="section" id="tacc-frontera">
 <span id="lbltacc"></span><h1>TACC-Frontera<a class="headerlink" href="#tacc-frontera" title="Permalink to this headline">¶</a></h1>
-<p>DesignSafe-ci is closely integrated within <a class="reference external" href="https://www.tacc.utexas.edu/">TACC</a>. TACC designs and deploys the world’s most powerful advanced computing technologies and innovative software solutions to enable researchers to answer complex questions like those you are researching and many more. For this workshop, and thanks to DesignSafe-ci, TACC are making available to you access to one of the fastest supercomputers in the world. To make use of these resources you need to be a <a class="reference external" href="https://frontera-portal.tacc.utexas.edu/user-guide/citizenship/">good citizen</a> while utilizing them.</p>
-<p>We will be using the <a class="reference external" href="https://www.tacc.utexas.edu/systems/frontera">**Frontera**</a> system and they provide a comprehensive set of <a class="reference external" href="https://frontera-portal.tacc.utexas.edu/user-guide/">usage notes</a> . The following is a brief overview of it with Linux commands for this workshop.</p>
+<p>DesignSafe-ci is closely integrated within <a class="reference external" href="https://www.tacc.utexas.edu/">TACC</a>. TACC designs and deploys the world’s most powerful advanced computing technologies and innovative software solutions to enable researchers to answer complex questions like those you are researching. For this workshop, and thanks to DesignSafe-ci, TACC is making available access to one of the fastest supercomputers in the world. To make use of these resources you need to be a <a class="reference external" href="https://frontera-portal.tacc.utexas.edu/user-guide/citizenship/">good citizen</a> while utilizing them.</p>
+<p>If needed, you will be using the <a class="reference external" href="https://www.tacc.utexas.edu/systems/frontera">**Frontera**</a> system and they provide a comprehensive set of <a class="reference external" href="https://frontera-portal.tacc.utexas.edu/user-guide/">usage notes</a>.</p>
 </div>
 
 
@@ -172,15 +185,12 @@
            
           </div>
           <footer>
-    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-        <a href="colab.html" class="btn btn-neutral float-left" title="Google Colab" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
-    </div>
 
   <hr/>
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2020, Peter Mackenzie-Helnwein, Frank McKenna.
+        &#169; Copyright 2021, Peter Mackenzie-Helnwein, Frank McKenna.
 
     </p>
   </div>
@@ -211,7 +221,53 @@
   
   
     
-   
+    
+
+  <style>
+         .wy-nav-content { max-width: none; }
+  </style>
+
+<script>
+    /*
+    let selectedFilters = [];
+    const images  = document.getElementsByClassName("gallery-item");
+    const filters = [...document.querySelectorAll('.filter select')];
+    const toggles = [...document.querySelectorAll('.filter input')];
+
+    var show = function (elem) {
+        elem.style.display = 'block';
+    };
+    var hide = function (elem) {
+        elem.style.display = 'none';
+    };
+    var toggleFilter =  function(el,elid) {
+        const filter = document.getElementById(elid);
+        filter.disabled = !el.checked;
+       
+        if ("createEvent" in document) {
+            var evt = document.createEvent("HTMLEvents");
+            evt.initEvent("change", false, true);
+            filter.dispatchEvent(evt);
+        }
+        else
+            filter.fireEvent("change");
+    };
+    
+    for (const filter of filters) {
+        filter.addEventListener('change', function(event) {
+            selectedFilters = filters.map(filter => filter.disabled ? '' : filter.value).filter(Boolean);
+            console.log(selectedFilters);
+            for (const image of images) {
+                if (selectedFilters.every(filter => image.classList.contains(filter))) {
+                    show(image);
+                }
+                else {hide(image)};
+            };
+        })
+    };
+    */
+</script>
+
 
 </body>
 </html>
