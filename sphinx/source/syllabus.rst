@@ -25,10 +25,9 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
 * Day 1 - Introduction to Machine Learning (`Part1-2 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part1-2.pdf>`_ and `Part3 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part3.pdf>`_) and BRAILS
 
   * Pre-class content
-     * Introduction
-     * Conventional Machine Learning: `Video <https://youtu.be/JuWQmyGzEG0>`_ 
-     * Neural Networks and Deep Learning: `Video <https://youtu.be/u8At5mqwyKE>`_ 
-     * Image Classification in Tensorflow: `Video <https://youtu.be/mgk47La_qyc>`_ 
+     * Introduction to Machine Learning: `Video <https://youtu.be/Dt5P1pQ2WJQ>`_ 
+     * Neural Networks and Deep Learning: `Video <https://youtu.be/BDK71LOn0xs>`_ 
+     * Image Classification in Tensorflow: `Video <https://youtu.be/JOrtCP9Fvjk>`_ 
      * Warm up with BRAILS: `Introduction <https://nheri-simcenter.github.io/BRAILS-Documentation/common/user_manual/about.html>`_, `Installation <https://nheri-simcenter.github.io/BRAILS-Documentation/common/user_manual/installation.html>`_ (You have to install if you plan to run Exercises 3 and 4 locally on your computer. Alternatively, we also provide notebooks that can run on Google Colab, which requires that you have a Google account. -> `Run Google Colab  <https://research.google.com/colaboratory/>`_.)
     
 
