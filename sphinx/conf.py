@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Programming Bootcamp 2020'
-copyright = '2020, Peter Mackenzie-Helnwein, Frank McKenna'
+project = '2021 AI Workshop'
+copyright = '2021, Peter Mackenzie-Helnwein, Frank McKenna'
 author = 'Peter Mackenzie-Helnwein, Frank McKenna'
 
 rst_prolog = """
