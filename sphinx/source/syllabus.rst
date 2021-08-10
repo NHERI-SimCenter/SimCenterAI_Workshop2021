@@ -42,10 +42,11 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
 * Day 2 - `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/ObjectDetection.pdf>`_
 
   * Pre-class content
-     * Why Use Object Detection: `Video <https://youtu.be/oWD5N80Vpz8>`_ 
-     * Object Detection Algorithms: `Video <https://youtu.be/4Rc4qs7WQSQ>`_ 
-     * Datasets for Object Detection: `Video <https://youtu.be/MZ3EAp4QHug>`_ 
-     * A Framework for Model Development:
+     * Sliding Window Object Detection : `Video <https://youtu.be/oWD5N80Vpz8>`_ 
+     * Early One-Stage and Two Stage Object Detector Algorithms: `Video <https://youtu.be/4Rc4qs7WQSQ>`_ 
+     * State of the Art Object Detection Algorithms & Detection Datasets: `Video <https://youtu.be/MZ3EAp4QHug>`_ 
+     * An Overview of Semantic Segmentation Algorithms:
+	 * State of the Art Semantic Segmentation Algorithms & Segmentation Datasets:
      
   * In-class Exercises
      * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://opensees.berkeley.edu>`_
