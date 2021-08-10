@@ -44,7 +44,7 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
      * Why Use Object Detection: `Video <https://youtu.be/oWD5N80Vpz8>`_ 
      * Object Detection Algorithms: `Video <https://youtu.be/4Rc4qs7WQSQ>`_ 
      * Datasets for Object Detection: `Video <https://youtu.be/MZ3EAp4QHug>`_ 
-     * A Framework for Model Development:
+     * A Framework for Model Development: Coming soon
      
   * In-class Exercises
      * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://opensees.berkeley.edu>`_
