@@ -43,10 +43,10 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
 
   * Pre-class content
      * Sliding Window Object Detection : `Video <https://youtu.be/oWD5N80Vpz8>`_ 
-     * Early One-Stage and Two Stage Object Detector Algorithms: `Video <https://youtu.be/4Rc4qs7WQSQ>`_ 
+     * Early One-Stage and Two-Stage Object Detector Algorithms: `Video <https://youtu.be/4Rc4qs7WQSQ>`_ 
      * State of the Art Object Detection Algorithms & Detection Datasets: `Video <https://youtu.be/MZ3EAp4QHug>`_ 
      * An Overview of Semantic Segmentation Algorithms:
-	 * State of the Art Semantic Segmentation Algorithms & Segmentation Datasets:
+	 * State of the Art Semantic Segmentation Algorithms, Segmentation Datasets:
      
   * In-class Exercises
      * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://opensees.berkeley.edu>`_

@@ -44,25 +44,26 @@ Day 2 - `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Worksh
 ===========================================
 
   * Pre-class content
-     * Why Use Object Detection:
+     * Sliding Window Object Detection:
 
        .. raw:: html
 
             <p><iframe width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://youtube.com/embed/oWD5N80Vpz8" ></iframe></p>
  
-     * Object Detection Algorithms:
+     * Early One-Stage and Two-Stage Object Detector Algorithms:
 
        .. raw:: html
 
             <p><iframe width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://youtube.com/embed/4Rc4qs7WQSQ" ></iframe></p>
  
-     * Datasets for Object Detection:
+     * State of the Art Object Detection Algorithms, Detection Datasets:
 
        .. raw:: html
 
             <p><iframe width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://youtube.com/embed/MZ3EAp4QHug" ></iframe></p>
  
-     * A Framework for Model Development:
+     * An Overview of Semantic Segmentation Algorithms:
+	 * State of the Art Semantic Segmentation Algorithms, Segmentation Datasets:
      
   * In-class Exercises
      * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://opensees.berkeley.edu>`_
