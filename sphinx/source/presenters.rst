@@ -6,7 +6,7 @@ The workshop has a number of presenters.
 
 * Day 1 - Charles Wang (UC Berkeley)
 
- **Chaofeng Wang** is a postdoctoral scholar and a member of the development team of NSF NHERI SimCenter, where he develops natural hazard engineering software including BRAILS, s3hark, SWIM, etc. He is specialized in computational mechanics, artificial intelligence, and their applications in civil infrastructure and natural hazard engineering. He will join the University of Florida College of Design, Construction and Planning as an Assistant Professor in August 2021. email c_w(at)berkeley.edu
+ **Chaofeng Wang** is a postdoctoral scholar and a member of the development team of NSF NHERI SimCenter, where he develops natural hazard engineering software including BRAILS, SURF, s3hark, SWIM, etc. He is specialized in computational mechanics, artificial intelligence, and their applications in civil infrastructure and natural hazard engineering. He will join the University of Florida College of Design, Construction and Planning as an Assistant Professor in August 2021. email chaofeng.wang(at)ufl.edu
 
 * Day 2 - Barbaros Cetiner (UCLA)
 
