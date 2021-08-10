@@ -62,8 +62,8 @@ Day 2 - `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Worksh
 
             <p><iframe width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://youtube.com/embed/MZ3EAp4QHug" ></iframe></p>
  
-     * An Overview of Semantic Segmentation Algorithms:
-	 * State of the Art Semantic Segmentation Algorithms, Segmentation Datasets:
+     * An Overview of Semantic Segmentation Algorithms: Coming soon
+	 * State of the Art Semantic Segmentation Algorithms, Segmentation Datasets:  Coming soon
      
   * In-class Exercises
      * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://opensees.berkeley.edu>`_
