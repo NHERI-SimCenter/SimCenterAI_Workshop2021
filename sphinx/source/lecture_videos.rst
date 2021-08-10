@@ -1,10 +1,11 @@
-******
-Videos
-******
+********
+Content
+********
 
 
 
 Day 1 - Introduction and `Image Classification <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part1-2.pdf>`_, and `BRAILS <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part3.pdf>`_
+===========================================
 
 * Pre-class content
    * Introduction
@@ -35,7 +36,8 @@ Day 1 - Introduction and `Image Classification <https://github.com/NHERI-SimCent
    * Exercise 4: BRAILS City Builder: `Notebook <https://colab.research.google.com/drive/1tG6xVRCmDyi6K8TWgoNd_31vV034VcSO?usp=sharing>`_
 
     
-* Day 2 - `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/ObjectDetection.pdf>`_
+Day 2 - `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/ObjectDetection.pdf>`_
+===========================================
 
   * Pre-class content
      * Why Use Object Detection:
@@ -62,7 +64,8 @@ Day 1 - Introduction and `Image Classification <https://github.com/NHERI-SimCent
      * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://opensees.berkeley.edu>`_
      * Exercise 2: Crack Segmentation: `Notebook <https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6>`_
 
-* Day 3 - `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_
+Day 3 - `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_
+===========================================
    
   * Pre-class content
      * Multi-Layer Perceptron: 
