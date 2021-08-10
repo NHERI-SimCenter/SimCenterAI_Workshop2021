@@ -60,5 +60,5 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
      * Transformers: `Video <https://youtu.be/XM9R2H_Sw_I>`_ 
 
   * In-class Exercises
-     * Exercise 1: `Hand-written digit classification with multi-layer perceptron <http://opensees.berkeley.edu>`_
-     * Exercise 2: `Roof classification with Transformation Learning <http://opensees.berkeley.edu>`_
+     * Exercise 1: `Hand-written digit classification with multi-layer perceptron <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/exercises/day3/exercise1.ipynb>`_
+     * Exercise 2: `Roof classification with Transformation Learning <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/exercises/day3/exercise2.ipynb>`_
