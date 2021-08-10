@@ -6,7 +6,9 @@ Colaboratory, or "Colab" for short, allows you to write and execute Python in yo
 
 Some Colab material you should review before the start of the Workshop.
 
-`Basic Colab <https://colab.research.google.com/notebooks/intro.ipynb>`_
+`Video Intro to Colab <https://youtu.be/inN8seMm7UI>`_
+
+`Basic Colab Notebook <https://colab.research.google.com/notebooks/intro.ipynb>`_
 
 
 Some other interesting Resources you might enjoy if you want to set up your own jupyter notebooks

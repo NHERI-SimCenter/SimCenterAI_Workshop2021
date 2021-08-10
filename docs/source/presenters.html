@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
-  <title>Presenters &mdash; Programming Bootcamp 2020  documentation</title>
+  <title>Presenters &mdash; 2021 AI Workshop  documentation</title>
   
 
   
@@ -44,7 +44,13 @@
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="Syllabus" href="syllabus.html" />
-    <link rel="prev" title="Welcome to the NHERI-SimCenter 2021 AI Workshop" href="../index.html" /> 
+    <link rel="prev" title="Welcome to the NHERI-SimCenter 2021 AI Workshop" href="../index.html" />
+<script src="https://cdn.jsdelivr.net/npm/vega@5.12.1"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.13.1"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.8.0"></script>
+<style media="screen">.vega-actions a {margin-right: 5px;}</style>
+<link href="../_static/css/bootstrap.css" rel="stylesheet">
+
 </head>
 
 <body class="wy-body-for-nav">
@@ -54,22 +60,28 @@
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side">
       <div class="wy-side-scroll">
-        <div class="wy-side-nav-search" >
+        <div class="wy-side-nav-search"  style="background: #F2F2F2" >
           
+<a href="https://simcenter.designsafe-ci.org/" style="margin-bottom: 0px;">
+  <img src="../_static/SimCenter-Only.png" class="logo" alt="Org-Logo" />
+</a>
+<hr style="margin: 0px;">
 
-          
-            <a href="../index.html" class="icon icon-home"> Programming Bootcamp 2020
-          
+  <a href="../index.html">
 
-          
-          </a>
 
-          
-            
-            
-          
 
-          
+  
+  <img src="../_static/logo.png" class="logo" alt="Logo"/>
+
+</a>
+
+
+  
+  
+
+
+
 <div role="search">
   <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
     <input type="text" name="q" placeholder="Search docs" />
@@ -78,7 +90,7 @@
   </form>
 </div>
 
-          
+
         </div>
 
         
@@ -93,6 +105,7 @@
 <ul class="current">
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Presenters</a></li>
 <li class="toctree-l1"><a class="reference internal" href="syllabus.html">Syllabus</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lecture_videos.html">Content</a></li>
 <li class="toctree-l1"><a class="reference internal" href="colab.html">Google Colab</a></li>
 <li class="toctree-l1"><a class="reference internal" href="TACC.html">TACC-Frontera</a></li>
 </ul>
@@ -110,7 +123,7 @@
       <nav class="wy-nav-top" aria-label="top navigation">
         
           <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-          <a href="../index.html">Programming Bootcamp 2020</a>
+          <a href="../index.html">2021 AI Workshop</a>
         
       </nav>
 
@@ -165,19 +178,18 @@
   <div class="section" id="presenters">
 <h1>Presenters<a class="headerlink" href="#presenters" title="Permalink to this headline">¶</a></h1>
 <p>The workshop has a number of presenters.</p>
-<ul>
-<li><p>Day 1 - Matt Schoettler and Charles Wang (UC Berkeley)</p>
-<p>Some background and an image</p>
-</li>
-<li><p>Day 2 - Barbaros Cetiner (UCLA)</p>
+<ul class="simple">
+<li><p>Day 1 - Charles Wang (UC Berkeley)</p></li>
+</ul>
 <blockquote>
-<div><p>Some background and an image</p>
+<div><p><strong>Chaofeng Wang</strong> is a postdoctoral scholar and a member of the development team of NSF NHERI SimCenter, where he develops natural hazard engineering software including BRAILS, s3hark, SWIM, etc. He is specialized in computational mechanics, artificial intelligence, and their applications in civil infrastructure and natural hazard engineering. He will join the University of Florida College of Design, Construction and Planning as an Assistant Professor in August 2021. email c_w(at)berkeley.edu</p>
 </div></blockquote>
+<ul>
+<li><p>Day 2 - Barbaros Cetiner (UCLA)</p>
+<p><strong>Barbaros Cetiner</strong> is a postdoctoral scholar at UCLA and software developer at SimCenter. He is one of the lead developers of the AI-based inventory development application BRAILS, which automatically generates the building information required for regional loss assessments due to natural hazards. Dr. Cetiner received his Doctorate in structural mechanics from UCLA, M.S. in structural and earthquake engineering from UCLA, and B.S. in civil engineering from The State University of New York at Buffalo. Dr. Cetiner has long been invested in hazards engineering research. His latest research efforts focus on exploring the new frontiers at the intersection of AI and hazards engineering. email bacetiner(at)ucla.edu</p>
 </li>
 <li><p>Day 3 - Yunhui Guo (UC Berkeley)</p>
-<blockquote>
-<div><p>Some background and an image</p>
-</div></blockquote>
+<p><strong>Yunhui Guo</strong> is a postdoctoral scholar working on AI software development with SimCenter domain expert Professor Stella Yu at UC Berkeley. Dr. Guo is developing computer vision and machine learning algorithms that infer large-scale building information from publicly available images and associated records. Dr. Guo received his Ph.D. in Computer Science from UC San Diego. His research interests include efficient machine learning and deep learning with a focus on transfer learning, multi-task learning, few-shot learning, and lifelong learning models. His work experiences include research internships at Qualcomm AI Research, IBM Thomas J. Watson Research Center, and Intel Corporation. He has also published numerous papers for technical conferences on machine learning. email yunhui(at)berkeley.edu</p>
 </li>
 </ul>
 </div>
@@ -187,16 +199,12 @@
            
           </div>
           <footer>
-    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-        <a href="syllabus.html" class="btn btn-neutral float-right" title="Syllabus" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
-        <a href="../index.html" class="btn btn-neutral float-left" title="Welcome to the NHERI-SimCenter 2021 AI Workshop" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
-    </div>
 
   <hr/>
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2020, Peter Mackenzie-Helnwein, Frank McKenna.
+        &#169; Copyright 2021, Peter Mackenzie-Helnwein, Frank McKenna.
 
     </p>
   </div>
@@ -227,7 +235,53 @@
   
   
     
-   
+    
+
+  <style>
+         .wy-nav-content { max-width: none; }
+  </style>
+
+<script>
+    /*
+    let selectedFilters = [];
+    const images  = document.getElementsByClassName("gallery-item");
+    const filters = [...document.querySelectorAll('.filter select')];
+    const toggles = [...document.querySelectorAll('.filter input')];
+
+    var show = function (elem) {
+        elem.style.display = 'block';
+    };
+    var hide = function (elem) {
+        elem.style.display = 'none';
+    };
+    var toggleFilter =  function(el,elid) {
+        const filter = document.getElementById(elid);
+        filter.disabled = !el.checked;
+       
+        if ("createEvent" in document) {
+            var evt = document.createEvent("HTMLEvents");
+            evt.initEvent("change", false, true);
+            filter.dispatchEvent(evt);
+        }
+        else
+            filter.fireEvent("change");
+    };
+    
+    for (const filter of filters) {
+        filter.addEventListener('change', function(event) {
+            selectedFilters = filters.map(filter => filter.disabled ? '' : filter.value).filter(Boolean);
+            console.log(selectedFilters);
+            for (const image of images) {
+                if (selectedFilters.every(filter => image.classList.contains(filter))) {
+                    show(image);
+                }
+                else {hide(image)};
+            };
+        })
+    };
+    */
+</script>
+
 
 </body>
 </html>

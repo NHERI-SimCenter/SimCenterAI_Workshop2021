@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
-  <title>Syllabus &mdash; Programming Bootcamp 2020  documentation</title>
+  <title>Syllabus &mdash; 2021 AI Workshop  documentation</title>
   
 
   
@@ -43,8 +43,14 @@
     
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Google Colab" href="colab.html" />
-    <link rel="prev" title="Presenters" href="presenters.html" /> 
+    <link rel="next" title="Content" href="lecture_videos.html" />
+    <link rel="prev" title="Presenters" href="presenters.html" />
+<script src="https://cdn.jsdelivr.net/npm/vega@5.12.1"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.13.1"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.8.0"></script>
+<style media="screen">.vega-actions a {margin-right: 5px;}</style>
+<link href="../_static/css/bootstrap.css" rel="stylesheet">
+
 </head>
 
 <body class="wy-body-for-nav">
@@ -54,22 +60,28 @@
     
     <nav data-toggle="wy-nav-shift" class="wy-nav-side">
       <div class="wy-side-scroll">
-        <div class="wy-side-nav-search" >
+        <div class="wy-side-nav-search"  style="background: #F2F2F2" >
           
+<a href="https://simcenter.designsafe-ci.org/" style="margin-bottom: 0px;">
+  <img src="../_static/SimCenter-Only.png" class="logo" alt="Org-Logo" />
+</a>
+<hr style="margin: 0px;">
 
-          
-            <a href="../index.html" class="icon icon-home"> Programming Bootcamp 2020
-          
+  <a href="../index.html">
 
-          
-          </a>
 
-          
-            
-            
-          
 
-          
+  
+  <img src="../_static/logo.png" class="logo" alt="Logo"/>
+
+</a>
+
+
+  
+  
+
+
+
 <div role="search">
   <form id="rtd-search-form" class="wy-form" action="../search.html" method="get">
     <input type="text" name="q" placeholder="Search docs" />
@@ -78,7 +90,7 @@
   </form>
 </div>
 
-          
+
         </div>
 
         
@@ -93,6 +105,7 @@
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="presenters.html">Presenters</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Syllabus</a></li>
+<li class="toctree-l1"><a class="reference internal" href="lecture_videos.html">Content</a></li>
 <li class="toctree-l1"><a class="reference internal" href="colab.html">Google Colab</a></li>
 <li class="toctree-l1"><a class="reference internal" href="TACC.html">TACC-Frontera</a></li>
 </ul>
@@ -110,7 +123,7 @@
       <nav class="wy-nav-top" aria-label="top navigation">
         
           <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-          <a href="../index.html">Programming Bootcamp 2020</a>
+          <a href="../index.html">2021 AI Workshop</a>
         
       </nav>
 
@@ -164,34 +177,32 @@
             
   <div class="section" id="syllabus">
 <h1>Syllabus<a class="headerlink" href="#syllabus" title="Permalink to this headline">¶</a></h1>
-<p><font color=red> last updated: August 5, 2021 </font></p><p>Welcome to the SimCenter AI Workshop 2021.  Due to COVID-19, this year’s offering will be solely online.
-A drawback of an online offering is the lack of interaction among the participants. The SimCenter team is putting in all effort to recreate some
-of the community building benefits through discussion sessions and social time.</p>
-<p>The bootcamp is organized as a series of live video conferencing (ZOOM), prerecorded video
-lectures, hands-on exercises with online review options, and homework assignments.  The
-ideal flow of lessons and activities is provided in the “By Day” listing below.</p>
+<p><font color=red> last updated: August 9, 2021 </font></p><p>Welcome to the SimCenter ML/AI Workshop 2021.  Due to COVID-19, this year’s offering will be an online format.
+A drawback of an online offering is the lack of interaction among the participants, so we encourage you to be active during the live sessions with questions. The SimCenter intends to create some of the community building - that might otherwise be achieved in-person - through discussion and invites you to join <a class="reference external" href="https://designsafe-ci.zoom.us/meeting/register/tJcpcOmvqjguGNcAkeFzFejGojhVBdd-Hp1Q">Office Hours with the Development Team</a> to continue these discussions with other members of the Natural Hazards Engineering community.</p>
+<p>The bootcamp is organized as a series of pre-recorded video lectures and live online conferencing (Zoom). The lessons and videos are provided in the listing below “by day”.</p>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
-<p>Video and linked exercises are due before the online class sections.</p>
-<p>We will spend our live sessions mostly doing hands-on exercises.  Those
-exercises are only effective if you did your self-study assignment before
-we meet.</p>
+<p>Videos must be watched before the online class sessions for the day.</p>
+<p>We will spend our live sessions mostly doing hands-on exercises
+(“In-class Exercise” links below), questions, and discussion.
+Those exercises are only effective if you did your self-study
+assignment of watching the videos before we meet.</p>
 </div>
-<ul>
+<ul class="simple">
 <li><p>Day 1 - Introduction and <a class="reference external" href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part1-2.pdf">Image Classification</a>, and <a class="reference external" href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part3.pdf">BRAILS</a></p>
 <ul>
-<li><p>Material</p>
-<blockquote>
-<div><ul class="simple">
+<li><dl class="simple">
+<dt>Pre-class content</dt><dd><ul>
 <li><p>Introduction</p></li>
 <li><p>Conventional Machine Learning: <a class="reference external" href="https://youtu.be/JuWQmyGzEG0">Video</a></p></li>
 <li><p>Neural Networks and Deep Learning: <a class="reference external" href="https://youtu.be/u8At5mqwyKE">Video</a></p></li>
 <li><p>BRAILS</p></li>
 </ul>
-</div></blockquote>
+</dd>
+</dl>
 </li>
 <li><dl class="simple">
-<dt>In class Exercises</dt><dd><ul class="simple">
+<dt>In-class Exercises</dt><dd><ul>
 <li><p>Exercise 1: Conventional Machine Learning: <a class="reference external" href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/day1/Part-1.ipynb">Notebook</a></p></li>
 <li><p>Exercise 2: Image Classification: <a class="reference external" href="https://drive.google.com/file/d/1YNAzDri4S6H6KnltgurK4VFhEFsyWDWC/view?usp=sharing">Notebook</a>, <a class="reference external" href="https://youtu.be/mgk47La_qyc">Video</a></p></li>
 <li><p>Exercise 3: BRAILS Modules: <a class="reference external" href="https://colab.research.google.com/drive/1zspDwK-rGA1gYcHZDnrQr_3Z27JL-ooS?usp=sharing">Notebook</a></p></li>
@@ -203,27 +214,48 @@ we meet.</p>
 </ul>
 </li>
 <li><p>Day 2 - <a class="reference external" href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/ObjectDetection.pdf">Object Detection</a></p>
-<blockquote>
-<div><ul class="simple">
-<li><p>Why Use Object Detection</p></li>
-<li><p>Object Detection Algorithms</p></li>
-<li><p>Datasets for Object Detection</p></li>
-<li><p>A Framework for Model Development</p></li>
+<ul>
+<li><dl class="simple">
+<dt>Pre-class content</dt><dd><ul>
+<li><p>Why Use Object Detection: <a class="reference external" href="https://youtu.be/oWD5N80Vpz8">Video</a></p></li>
+<li><p>Object Detection Algorithms: <a class="reference external" href="https://youtu.be/4Rc4qs7WQSQ">Video</a></p></li>
+<li><p>Datasets for Object Detection: <a class="reference external" href="https://youtu.be/MZ3EAp4QHug">Video</a></p></li>
+<li><p>A Framework for Model Development:</p></li>
 </ul>
-</div></blockquote>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>In-class Exercises</dt><dd><ul>
+<li><p>Exercise 1: Roof Detection through Semantic Segmentation: <a class="reference external" href="https://opensees.berkeley.edu">Notebook</a></p></li>
+<li><p>Exercise 2: Crack Segmentation: <a class="reference external" href="https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6">Notebook</a></p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
 </li>
 <li><p>Day 3 - <a class="reference external" href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf">Neural Network Architectures</a></p>
-<blockquote>
-<div><ul class="simple">
-<li><p>Multi-Layer Perceptron: <a class="reference external" href="http://opensees.berkeley.edu">Video</a> and <a class="reference external" href="http://opensees.berkeley.edu">Notebook Demo</a></p></li>
-<li><p>Convolutional Neural Networks</p></li>
-<li><p>Attention Networks</p></li>
-<li><p>Transformers</p></li>
-<li><p>In class Exercises</p></li>
+<ul>
+<li><dl class="simple">
+<dt>Pre-class content</dt><dd><ul>
+<li><p>Multi-Layer Perceptron: <a class="reference external" href="https://youtu.be/8PNMJRHAWFk">Video</a></p></li>
+<li><p>Convolutional Neural Networks: <a class="reference external" href="https://youtu.be/oEIdAsVVhvw">Video</a></p></li>
+<li><p>Attention Networks: <a class="reference external" href="https://youtu.be/W4uqA9rwcKk">Video</a></p></li>
+<li><p>Transformers: <a class="reference external" href="https://youtu.be/XM9R2H_Sw_I">Video</a></p></li>
+</ul>
+</dd>
+</dl>
+</li>
+<li><dl class="simple">
+<dt>In-class Exercises</dt><dd><ul>
 <li><p>Exercise 1: <a class="reference external" href="http://opensees.berkeley.edu">Hand-written digit classification with multi-layer perceptron</a></p></li>
 <li><p>Exercise 2: <a class="reference external" href="http://opensees.berkeley.edu">Roof classification with Transformation Learning</a></p></li>
 </ul>
-</div></blockquote>
+</dd>
+</dl>
+</li>
+</ul>
 </li>
 </ul>
 </div>
@@ -233,16 +265,12 @@ we meet.</p>
            
           </div>
           <footer>
-    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-        <a href="colab.html" class="btn btn-neutral float-right" title="Google Colab" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
-        <a href="presenters.html" class="btn btn-neutral float-left" title="Presenters" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
-    </div>
 
   <hr/>
 
   <div role="contentinfo">
     <p>
-        &#169; Copyright 2020, Peter Mackenzie-Helnwein, Frank McKenna.
+        &#169; Copyright 2021, Peter Mackenzie-Helnwein, Frank McKenna.
 
     </p>
   </div>
@@ -273,7 +301,53 @@ we meet.</p>
   
   
     
-   
+    
+
+  <style>
+         .wy-nav-content { max-width: none; }
+  </style>
+
+<script>
+    /*
+    let selectedFilters = [];
+    const images  = document.getElementsByClassName("gallery-item");
+    const filters = [...document.querySelectorAll('.filter select')];
+    const toggles = [...document.querySelectorAll('.filter input')];
+
+    var show = function (elem) {
+        elem.style.display = 'block';
+    };
+    var hide = function (elem) {
+        elem.style.display = 'none';
+    };
+    var toggleFilter =  function(el,elid) {
+        const filter = document.getElementById(elid);
+        filter.disabled = !el.checked;
+       
+        if ("createEvent" in document) {
+            var evt = document.createEvent("HTMLEvents");
+            evt.initEvent("change", false, true);
+            filter.dispatchEvent(evt);
+        }
+        else
+            filter.fireEvent("change");
+    };
+    
+    for (const filter of filters) {
+        filter.addEventListener('change', function(event) {
+            selectedFilters = filters.map(filter => filter.disabled ? '' : filter.value).filter(Boolean);
+            console.log(selectedFilters);
+            for (const image of images) {
+                if (selectedFilters.every(filter => image.classList.contains(filter))) {
+                    show(image);
+                }
+                else {hide(image)};
+            };
+        })
+    };
+    */
+</script>
+
 
 </body>
 </html>
