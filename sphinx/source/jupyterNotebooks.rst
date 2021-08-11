@@ -28,27 +28,35 @@ Day 1: Introduction and `Image Classification <https://github.com/NHERI-SimCente
 
 
 
-* .. raw:: html
+* Conventional Machine Learning
 
-     Conventional Machine Learning <a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/notebooks/day1/Part-1.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a> <a href="https://colab.research.google.com/drive/1fllxEh73-yhcfRskBQI-0togLFlwf6xO?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> <a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=notebooks/day1/Part-1.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a>
+  .. raw:: html
 
-
-
-* .. raw:: html
-
-     Image Classification <a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/notebooks/day1/Part-2.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a> <a href="https://colab.research.google.com/drive/1_QolEQrre_hOKPu5poQk5uQ3zW0EMskv?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> <a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=notebooks/day1/Part-2.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a>
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/notebooks/day1/Part-1.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1fllxEh73-yhcfRskBQI-0togLFlwf6xO?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=notebooks/day1/Part-1.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
 
 
 
-* .. raw:: html
+* Image Classification
 
-     BRAILS Modules <a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/notebooks/day1/Part-3-BRAILS_demo_1.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a> <a href="https://colab.research.google.com/drive/1zspDwK-rGA1gYcHZDnrQr_3Z27JL-ooS?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> <a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=notebooks/day1/Part-3-BRAILS_demo_1.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a>
+  .. raw:: html
+
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/notebooks/day1/Part-2.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1_QolEQrre_hOKPu5poQk5uQ3zW0EMskv?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=notebooks/day1/Part-2.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
 
 
 
-* .. raw:: html
+* BRAILS Modules
 
-     BRAILS City Builder <a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/notebooks/day1/Part-3-BRAILS_demo_2_3.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a> <a href="https://colab.research.google.com/drive/1tG6xVRCmDyi6K8TWgoNd_31vV034VcSO?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> <a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=notebooks/day1/Part-3-BRAILS_demo_2_3.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a>
+  .. raw:: html
+
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/notebooks/day1/Part-3-BRAILS_demo_1.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1zspDwK-rGA1gYcHZDnrQr_3Z27JL-ooS?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=notebooks/day1/Part-3-BRAILS_demo_1.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
+
+
+
+* BRAILS City Builder
+
+  .. raw:: html
+
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/notebooks/day1/Part-3-BRAILS_demo_2_3.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1tG6xVRCmDyi6K8TWgoNd_31vV034VcSO?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=notebooks/day1/Part-3-BRAILS_demo_2_3.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
 
 
 
@@ -81,15 +89,19 @@ Day 2: `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Worksho
 
 
 
-* .. raw:: html
+* Roof Detection through Semantic Segmentation
 
-     Roof Detection through Semantic Segmentation <a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a> <a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> <a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath="><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a>
+  .. raw:: html
+
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath="><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
 
 
 
-* .. raw:: html
+* Crack Segmentation
 
-     Crack Segmentation <a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/exercises/day2/CrackSegmentation_Pytorch.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a> <a href="https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> <a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=exercises/day2/CrackSegmentation_Pytorch.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a>
+  .. raw:: html
+
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/exercises/day2/CrackSegmentation_Pytorch.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=exercises/day2/CrackSegmentation_Pytorch.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
 
 
 
@@ -122,15 +134,19 @@ Day 3: `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCent
 
 
 
-* .. raw:: html
+* Hand-written digit classification with multi-layer perceptron
 
-     Hand-written digit classification with multi-layer perceptron <a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/exercises/day3/exercise1.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a> <a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/exercises/day3/exercise1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> <a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=exercises/day3/exercise1.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a>
+  .. raw:: html
+
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/exercises/day3/exercise1.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/exercises/day3/exercise1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=exercises/day3/exercise1.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
 
 
 
-* .. raw:: html
+* Roof classification with Transformation Learning
 
-     Roof classification with Transformation Learning <a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/exercises/day3/exercise2.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a> <a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/exercises/day3/exercise2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> <a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=exercises/day3/exercise2.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a>
+  .. raw:: html
+
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/exercises/day3/exercise2.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/exercises/day3/exercise2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=exercises/day3/exercise2.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
 
 
 
