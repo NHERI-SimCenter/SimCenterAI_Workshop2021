@@ -2,7 +2,6 @@ Pillow
 brails
 gdown
 matplotlib
-numpy
 opencv-contrib-python-headless
 pandas
 seaborn
