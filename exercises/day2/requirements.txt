@@ -1,8 +1,0 @@
-gdown
-matplotlib
-opencv-contrib-python-headless
-tqdm
-torchvision
-torch
-PIL
-
