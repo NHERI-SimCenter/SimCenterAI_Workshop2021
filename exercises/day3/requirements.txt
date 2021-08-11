@@ -2,8 +2,6 @@ numpy
 pandas
 seaborn
 sklearn
-brails
-wget
 matplotlib
 torch
 torchvision

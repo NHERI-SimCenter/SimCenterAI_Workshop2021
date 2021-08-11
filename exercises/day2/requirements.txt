@@ -1,0 +1,8 @@
+gdown
+matplotlib
+cv2
+tqdm
+torchvision
+torch
+PIL
+
