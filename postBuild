@@ -1,0 +1,3 @@
+wget -q -O notebooks/day1/Roof_Satellite_Images.zip "https://zenodo.org/record/3986721/files/Roof_Satellite_Images.zip"
+
+
