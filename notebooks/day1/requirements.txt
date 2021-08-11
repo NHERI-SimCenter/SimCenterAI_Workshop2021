@@ -3,4 +3,5 @@ pandas
 seaborn
 sklearn
 brails
+wget
 
