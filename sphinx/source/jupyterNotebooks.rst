@@ -3,6 +3,15 @@
 Notebooks
 **********
 
+The following sets of links can be used to access the exercise files by various means.
+
+The first **Fork** link will open the exercise file on Github. From here, the user can download the files and run on their locally installed Jupyter server, or just view the rendered notebooks along with their source code and results.
+
+The second link will open the notebook on Googles Colab platform. Users with a Google accound can use this service to freely run the exercises directly from their browsers with no installation whatsoever. Code will be executed on Google's servers.
+
+The final link opens the notebook in Binder. This service is similar to Colab in that it allows users to freely execute notebooks from their browsers. However, this service requires absolutely no account registration. This option also provides a more familiar exerpience for working with notebooks than that of Colab as the user interface is nearly identical to a local Jupyter server.
+
+To learn more about these tools, visit the :ref:`Tools` page.
 
 Day 1: Introduction and `Image Classification <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part1-2.pdf>`_, and `BRAILS <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part3.pdf>`_
 =======================
