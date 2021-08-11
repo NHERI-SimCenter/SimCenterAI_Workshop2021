@@ -20,7 +20,7 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
 	assignment of watching the videos before we meet.
 
 .. warning::
-    To run Exercise 4 in day 1, you need to get a Google Maps API key before the class. Follow this instruction: "Using API Keys" in `this link <https://developers.google.com/maps/documentation/embed/get-api-key>`_. 
+    To run Exercise 4 on day 1, you need to get a Google Maps API key before the class. Follow this instruction: "Using API Keys" in `this link <https://developers.google.com/maps/documentation/embed/get-api-key>`_. 
 
 
     
