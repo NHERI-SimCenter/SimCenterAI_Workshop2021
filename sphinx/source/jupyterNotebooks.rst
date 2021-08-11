@@ -1,16 +1,7 @@
+
 **********
 Notebooks
 **********
-
-The notebooks used for the exercises can be accessed from the links below.
-
-The first link for each notebook will take you to it's location in the Github source repository.
-This can be used to download an exercise for running locally, viewing its code, and in some cases its results.
-However, notebooks cannot be run direcly from Github.
-
-The next link will open the notebook on Google's Colab service. This requires a Google account.
-
-The final link will open the notebook on Binder. No registration is required, but performance may not be high as Colab.
 
 
 Day 1: Introduction and `Image Classification <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part1-2.pdf>`_, and `BRAILS <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part3.pdf>`_
@@ -102,7 +93,7 @@ Day 2: `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Worksho
 
   .. raw:: html
 
-     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath="><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Fork&style=social" alt="Open in Github"/></a></li></ul>
 
 
 
