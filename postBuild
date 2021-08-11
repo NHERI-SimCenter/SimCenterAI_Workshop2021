@@ -1,0 +1,17 @@
+#! /bin/sh
+pip install -U 'pycocotools==2.0.0'
+pip uninstall -y numpy && pip install 'numpy~=1.19.2'
+
+wget -q -O notebooks/day1/Roof_Satellite_Images.zip "https://zenodo.org/record/3986721/files/Roof_Satellite_Images.zip"
+
+# Brails part 1
+wget -O notebooks/day1/image_examples.zip https://zenodo.org/record/4095668/files/image_examples.zip
+#cd notebooks/day1/
+#unzip image_examples.zip
+#zip -d image_examples.zip "__MACOSX*"
+#cd ../../
+
+# Day 3 Exercise 2
+wget -O 'exercises/day3/dataset.zip' 'https://drive.google.com/uc?export=download&id=11STs84PFHXdfZm-VhvRoM8AnxotIdbIu'
+
+

@@ -12,11 +12,11 @@ days:
 
   exercises:
   - title: Conventional Machine Learning
-    notebook: 'notebooks/day1/Part-1.ipynb' # ok
+    notebook: 'notebooks/day1/Part-1.ipynb' # binder[ok]
     colab: 'https://colab.research.google.com/drive/1fllxEh73-yhcfRskBQI-0togLFlwf6xO?usp=sharing'
 
   - title: Image Classification
-    notebook: 'notebooks/day1/Part-2.ipynb'
+    notebook: 'notebooks/day1/Part-2.ipynb' # binder[ok]
     colab: 'https://colab.research.google.com/drive/1_QolEQrre_hOKPu5poQk5uQ3zW0EMskv?usp=sharing'
 
   - title: BRAILS Modules
@@ -37,7 +37,7 @@ days:
   - title: Roof Detection through Semantic Segmentation
     notebook: ''
   - title: Crack Segmentation
-    notebook: 'exercises/day2/CrackSegmentation_Pytorch.ipynb'
+    notebook: 'exercises/day2/CrackSegmentation_Pytorch.ipynb' # binder[ok]
     colab: 'https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6'
 
 - title: "`Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_"
