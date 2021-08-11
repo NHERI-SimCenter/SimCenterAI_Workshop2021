@@ -1,3 +1,19 @@
+********
+Tools
+********
+
+
+Binder
+============
+
+Binder is a free service which provides researchers with a platform for sharing Jupyter notebooks.
+Much like Google Colab, Binder allows users to quickly and easily run notebooks over a browser on preconfigured servers meaning no installations are required for the user.
+
+Binder does not require users to register for an account of any sort, unlike Colab. It also provides a familiar interface which is nearly identical to a locally hosted Jupyter server. However, Binder does not provide GPU support meaning that certain notebooks may run much slower than on Colab.
+
+Notebooks can be cloned and configured on Binder directly from Github simply by using a uniquely constructed URL. 
+Visit `the documentation <https://mybinder.readthedocs.io/en/latest/introduction.html>`_ to learn more or get started now at https://mybinder.org.
+
 Google Colab
 ============
 
@@ -14,4 +30,5 @@ Some Colab material you should review before the start of the Workshop.
 Some other interesting Resources you might enjoy if you want to set up your own jupyter notebooks
 
 * `Want to set up notebooks on Colab for yourself <https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c>`_
+
 
