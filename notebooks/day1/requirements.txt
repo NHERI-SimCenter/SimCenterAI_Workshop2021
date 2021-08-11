@@ -4,4 +4,6 @@ seaborn
 sklearn
 brails
 wget
+matplotlib
+tensorflow
 
