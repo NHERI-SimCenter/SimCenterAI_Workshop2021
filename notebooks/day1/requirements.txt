@@ -1,0 +1,9 @@
+numpy
+pandas
+seaborn
+sklearn
+brails
+wget
+matplotlib
+tensorflow
+
