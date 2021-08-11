@@ -1,3 +1,7 @@
+#! /bin/sh
 wget -q -O notebooks/day1/Roof_Satellite_Images.zip "https://zenodo.org/record/3986721/files/Roof_Satellite_Images.zip"
-
+# Brails
+wget -O notebooks/day1/image_examples.zip https://zenodo.org/record/4095668/files/image_examples.zip
+cd notebooks/day1/ && unzip image_examples.zip
+cd ../../
 
