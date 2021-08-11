@@ -13,6 +13,8 @@ The final link opens the notebook in Binder. This service is similar to Colab in
 
 To learn more about these tools, visit the :ref:`Tools` page.
 
+
+
 Day 1: Introduction and `Image Classification <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part1-2.pdf>`_, and `BRAILS <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part3.pdf>`_
 =======================
 
@@ -147,7 +149,7 @@ Day 3: `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCent
 
   .. raw:: html
 
-     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/exercises/day3/exercise1.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/exercises/day3/exercise1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=exercises/day3/exercise1.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/exercises/day3/exercise1.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/exercises/day3/exercise1.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=exercises/day3/exercise1.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
 
 
 
@@ -155,7 +157,7 @@ Day 3: `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCent
 
   .. raw:: html
 
-     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/exercises/day3/exercise2.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/notebooks/exercises/day3/exercise2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=exercises/day3/exercise2.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/exercises/day3/exercise2.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/github/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/exercises/day3/exercise2.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=exercises/day3/exercise2.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
 
 
 
