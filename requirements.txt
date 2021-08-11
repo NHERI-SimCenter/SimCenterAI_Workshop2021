@@ -1,0 +1,15 @@
+
+PIL
+brails
+gdown
+matplotlib
+numpy
+opencv-contrib-python-headless
+pandas
+seaborn
+sklearn
+tensorflow
+torch
+torchvision
+tqdm
+wget

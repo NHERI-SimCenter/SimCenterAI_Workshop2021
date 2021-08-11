@@ -37,7 +37,7 @@ days:
   - title: Roof Detection through Semantic Segmentation
     notebook: ''
   - title: Crack Segmentation
-    notebook: 'exercises/day2/CrackSegmentation_Pytorch.ipynb'
+    notebook: 'exercises/day2/CrackSegmentation_Pytorch.ipynb' # binder[ok]
     colab: 'https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6'
 
 - title: "`Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_"
