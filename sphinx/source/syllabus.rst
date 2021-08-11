@@ -24,7 +24,7 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
 
 
     
-* Day 1 - `SimCenter Introductiom <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/SimCenterToolIntroAI.pdf>`_ , Introduction to Machine Learning (`Part1-2 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part1-2.pdf>`_ and `Part3 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part3.pdf>`_) and BRAILS
+* Day 1 - `SimCenter Introductiom <https://youtu.be/oUnOTA6qzCU>`_ (`PDF <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/SimCenterToolIntroAI.pdf>`_ ), Introduction to Machine Learning (`Part1-2 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part1-2.pdf>`_ and `Part3 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part3.pdf>`_) and BRAILS
 
   * Pre-class content
      * Introduction to Machine Learning: `Video <https://youtu.be/Dt5P1pQ2WJQ>`_ 
