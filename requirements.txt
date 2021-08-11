@@ -1,4 +1,5 @@
 numpy<1.20
+pycocotools==2.0.2
 Pillow
 brails
 gdown
@@ -7,7 +8,7 @@ opencv-contrib-python-headless
 pandas
 seaborn
 sklearn
-tensorflow
+tensorflow>=2.4.1
 torch
 torchvision
 tqdm
