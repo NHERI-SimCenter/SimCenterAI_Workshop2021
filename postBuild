@@ -1,4 +1,5 @@
 #! /bin/sh
+pip install -U 'pycocotools==2.0.0'
 pip uninstall -y numpy && pip install 'numpy~=1.19.2'
 
 wget -q -O notebooks/day1/Roof_Satellite_Images.zip "https://zenodo.org/record/3986721/files/Roof_Satellite_Images.zip"
