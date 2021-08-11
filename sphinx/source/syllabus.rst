@@ -4,7 +4,7 @@ Syllabus
 
 .. raw:: HTML
 
-	<p><font color=red> last updated: August 9, 2021 </font></p>
+	<p><font color=red> last updated: August 10, 2021 </font></p>
 
 Welcome to the SimCenter ML/AI Workshop 2021.  Due to COVID-19, this year's offering will be an online format. 
 A drawback of an online offering is the lack of interaction among the participants, so we encourage you to be active during the live sessions with questions. The SimCenter intends to create some of the community building - that might otherwise be achieved in-person - through discussion and invites you to join `Office Hours with the Development Team  <https://designsafe-ci.zoom.us/meeting/register/tJcpcOmvqjguGNcAkeFzFejGojhVBdd-Hp1Q>`_ to continue these discussions with other members of the Natural Hazards Engineering community.
@@ -20,9 +20,11 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
 	assignment of watching the videos before we meet.
 
 .. warning::
-    To run Exercise 4 in day 1, you need to get a Google Maps API key before the class. Follow this instruction: "Using API Keys" in `this link <https://developers.google.com/maps/documentation/embed/get-api-key>`_. 
+    To run Exercise 4 on day 1, you need to get a Google Maps API key before the class. Follow this instruction: "Using API Keys" in `this link <https://developers.google.com/maps/documentation/embed/get-api-key>`_. 
 
-* Day 1 - Introduction to Machine Learning (`Part1-2 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part1-2.pdf>`_ and `Part3 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part3.pdf>`_) and BRAILS
+
+    
+* Day 1 - `SimCenter Introductiom <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/SimCenterToolIntroAI.pdf>`_ , Introduction to Machine Learning (`Part1-2 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part1-2.pdf>`_ and `Part3 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part3.pdf>`_) and BRAILS
 
   * Pre-class content
      * Introduction to Machine Learning: `Video <https://youtu.be/Dt5P1pQ2WJQ>`_ 

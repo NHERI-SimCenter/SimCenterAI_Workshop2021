@@ -1,0 +1,55 @@
+github:
+  gh_user: "NHERI-SimCenter"
+  gh_repo: "SimCenterAI_Workshop2021"
+
+days:
+- title: "Introduction and `Image Classification <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part1-2.pdf>`_, and `BRAILS <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/Part3.pdf>`_"
+  content:
+  - Introduction to Machine Learning: "https://youtube.com/embed/Dt5P1pQ2WJQ"
+  - Neural Networks and Deep Learning: "https://youtube.com/embed/BDK71LOn0xs"
+  - Image Classification in Tensorflow: "https://youtube.com/embed/JOrtCP9Fvjk"
+  - BRAILS (live)
+
+  exercises:
+  - title: Conventional Machine Learning
+    notebook: 'notebooks/day1/Part-1.ipynb' # ok
+    colab: 'https://colab.research.google.com/drive/1fllxEh73-yhcfRskBQI-0togLFlwf6xO?usp=sharing'
+
+  - title: Image Classification
+    notebook: 'notebooks/day1/Part-2.ipynb'
+    colab: 'https://colab.research.google.com/drive/1_QolEQrre_hOKPu5poQk5uQ3zW0EMskv?usp=sharing'
+
+  - title: BRAILS Modules
+    notebook: 'notebooks/day1/Part-3-BRAILS_demo_1.ipynb'
+    colab: 'https://colab.research.google.com/drive/1zspDwK-rGA1gYcHZDnrQr_3Z27JL-ooS?usp=sharing'
+
+  - title: BRAILS City Builder
+    notebook: 'notebooks/day1/Part-3-BRAILS_demo_2_3.ipynb'
+    colab: 'https://colab.research.google.com/drive/1tG6xVRCmDyi6K8TWgoNd_31vV034VcSO?usp=sharing'
+
+- title: "`Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/ObjectDetection.pdf>`_"
+  content:
+  - Why Use Object Detection: "https://youtube.com/embed/oWD5N80Vpz8" 
+  - Object Detection Algorithms: "https://youtube.com/embed/4Rc4qs7WQSQ"
+  - Datasets for Object Detection: "https://youtube.com/embed/MZ3EAp4QHug" 
+  - A Framework for Model Development: ~
+  exercises:
+  - title: Roof Detection through Semantic Segmentation
+    notebook: ''
+  - title: Crack Segmentation
+    notebook: 'exercises/day2/CrackSegmentation_Pytorch.ipynb'
+    colab: 'https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6'
+
+- title: "`Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_"
+  content:   
+  - Multi-Layer Perceptron: "https://youtube.com/embed/8PNMJRHAWFk" 
+  - Convolutional Neural Networks: "https://youtube.com/embed/oEIdAsVVhvw" 
+  - Attention Networks: "https://youtube.com/embed/W4uqA9rwcKk" 
+  - Transformers:  "https://youtube.com/embed/XM9R2H_Sw_I"   
+  exercises:
+  - title: "Hand-written digit classification with multi-layer perceptron"
+    notebook: 'exercises/day3/exercise1.ipynb'
+
+  - title: "Roof classification with Transformation Learning"
+    notebook: 'exercises/day3/exercise2.ipynb'
+

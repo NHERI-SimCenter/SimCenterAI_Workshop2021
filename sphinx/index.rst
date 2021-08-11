@@ -29,6 +29,5 @@ Welcome to the NHERI-SimCenter 2021 AI Workshop
    source/lecture_videos
    source/jupyterNotebooks
    source/colab      
-   source/TACC
    source/git
 
