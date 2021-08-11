@@ -1,14 +1,13 @@
-Agenda of the live session:
+Agenda Day 1:
 
-0. Opening introduction (Frank in live or a video)
+10 min:  Welcome and Bootcamp overview
 
-1. 5 mins overview of topics covered in this bootcamp.
+25 min:  Review and Q/A on the pre-class materials for day 1 (Conventional ML, Neural Networks, Image Classification)
 
-2. 25 mins review and Q/A on the pre-class materials for day 1 (Conventional ML, Neural Networks, Image Classification)
+25 min: Introduction to BRAILS
 
-3. 25 mins for introduction to BRAILS
+10 min: Break
 
-4. 25 mins for the demos and exercises 
+25 min: Demos and exercises
 
-5. 25 mins Q&A session. 
-
+25 mins Q&A and discussion
