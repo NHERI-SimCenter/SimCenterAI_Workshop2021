@@ -5,7 +5,7 @@ Notebooks
 
 The following sets of links can be used to access the exercise files by various means.
 
-The first **Fork** link will open the exercise file on Github. From here, the user can download the files and run on their locally installed Jupyter server, or just view the rendered notebooks along with their source code and results.
+The first link will open the exercise file on Github. From here, the user can download the files and run on their locally installed Jupyter server, or just view the rendered notebooks along with their source code and results.
 
 The second link will open the notebook on Googles Colab platform. Users with a Google accound can use this service to freely run the exercises directly from their browsers with no installation whatsoever. Code will be executed on Google's servers.
 

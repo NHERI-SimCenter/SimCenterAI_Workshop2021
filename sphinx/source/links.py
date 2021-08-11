@@ -1,28 +1,29 @@
+# Claudio Perez
 import urllib.parse
+NL = '\n'
 
+# Github
 gh_templ = "https://github.com/{gh_user}/{gh_repo}/tree/{branch}/{path}"
 gh_badge = "https://img.shields.io/github/forks/{gh_user}/{gh_repo}?label=Github&style=social"
+# Binder
 binder_badge = "https://mybinder.org/badge_logo.svg"
 binder_templ = "https://mybinder.org/v2/gh/{gh_user}/{gh_repo}/HEAD?filepath={path}"
+# Colab
 colab_badge = "https://colab.research.google.com/assets/colab-badge.svg"
 colab_templ = "https://colab.research.google.com/github/{gh_user}/{gh_repo}/blob/{branch}/{path}"
 
-
 def link_colab(path, gh_user, gh_repo, branch="master")->str:
-    return colab_templ.format(gh_user=gh_user,gh_repo=gh_repo,branch=branch,path=urllib.parse.quote(path))
+    return colab_templ.format(
+            gh_user=gh_user,gh_repo=gh_repo,branch=branch,path=urllib.parse.quote(path))
 
 def link_binder(path, gh_user, gh_repo, branch="master")->str:
-    return binder_templ.format(gh_user=gh_user,gh_repo=gh_repo,path=urllib.parse.quote(path))
+    return binder_templ.format(
+            gh_user=gh_user,gh_repo=gh_repo,path=urllib.parse.quote(path))
 
 def link_github(path, gh_user, gh_repo, branch="master")->str:
     lnk = gh_templ.format(gh_user=gh_user,gh_repo=gh_repo,branch=branch,path=urllib.parse.quote(path))
     img = gh_badge.format(gh_user=gh_user,gh_repo=gh_repo,branch=branch,path=urllib.parse.quote(path))
     return f"""<a href="{lnk}"><img src="{img}" alt="Open in Github"/></a>"""
-
-
-#-------------------------------------------
-#-------------------------------------------
-NL = '\n'
 
 
 HEADER = """
@@ -32,7 +33,7 @@ Notebooks
 
 The following sets of links can be used to access the exercise files by various means.
 
-The first **Fork** link will open the exercise file on Github. From here, the user can download the files and run on their locally installed Jupyter server, or just view the rendered notebooks along with their source code and results.
+The first link will open the exercise file on Github. From here, the user can download the files and run on their locally installed Jupyter server, or just view the rendered notebooks along with their source code and results.
 
 The second link will open the notebook on Googles Colab platform. Users with a Google accound can use this service to freely run the exercises directly from their browsers with no installation whatsoever. Code will be executed on Google's servers.
 
@@ -41,10 +42,6 @@ The final link opens the notebook in Binder. This service is similar to Colab in
 To learn more about these tools, visit the :ref:`Tools` page.
 
 """
-
-
-def make_day():
-    pass
 
 DAY = """
 Day {i}: {title}
@@ -86,8 +83,13 @@ def make_exercise(title, notebook="", colab="", **gh_data):
 if __name__ == "__main__":
     import sys
     import yaml
+    if len(sys.argv) < 2:
+        print("usage: python <script> links.yml > notebooks.rst")
+        exit()
     with open(sys.argv[1], "r") as f:
         data = yaml.load(f, Loader=yaml.Loader)
+
+
     print(HEADER)
     for i,day in enumerate(data["days"]):
         day_data = dict(
