@@ -1,6 +1,6 @@
 gdown
 matplotlib
-cv2
+opencv-contrib-python-headless
 tqdm
 torchvision
 torch
