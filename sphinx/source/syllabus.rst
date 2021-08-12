@@ -50,7 +50,7 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
 	 * State of the Art Semantic Segmentation Algorithms, Segmentation Datasets: `Video <https://youtu.be/veqr3TZfrDg>`_ 
      
   * In-class Exercises
-     * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://opensees.berkeley.edu>`_
+     * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6?usp=sharing>`_
      * Exercise 2: Crack Segmentation: `Notebook <https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6>`_
 
 * Day 3 - `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_
