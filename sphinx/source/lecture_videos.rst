@@ -30,7 +30,7 @@ Day 1 - Introduction to Machine Learning (`Part1-2 <https://github.com/NHERI-Sim
 
 
     
-Day 2 - `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/ObjectDetection.pdf>`_
+Day 2 - `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/ObjectDetection.pdf>`_ and `Semantic Segmentation <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/Semantic Segmentation.pdf>`_
 ===========================================
 
   * Pre-class content

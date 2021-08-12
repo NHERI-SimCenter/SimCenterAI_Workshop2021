@@ -24,7 +24,7 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
 
 
     
-* Day 1 - `SimCenter Introductiom <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/SimCenterToolIntroAI.pdf>`_ , Introduction to Machine Learning (`Part1-2 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part1-2.pdf>`_ and `Part3 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part3.pdf>`_) and BRAILS
+* Day 1 - `SimCenter Introduction <https://youtu.be/oUnOTA6qzCU>`_ (`PDF <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/SimCenterToolIntroAI.pdf>`_), Introduction to Machine Learning (`Part1-2 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part1-2.pdf>`_ and `Part3 <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day1/Part3.pdf>`_) and BRAILS
 
   * Pre-class content
      * Introduction to Machine Learning: `Video <https://youtu.be/Dt5P1pQ2WJQ>`_ 
@@ -40,17 +40,17 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
      * Exercise 4: BRAILS City Builder: `Notebook <https://colab.research.google.com/drive/1tG6xVRCmDyi6K8TWgoNd_31vV034VcSO?usp=sharing>`_ 
 
     
-* Day 2 - `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/ObjectDetection.pdf>`_
+* Day 2 - `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/ObjectDetection.pdf>`_ and `Semantic Segmentation <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/Semantic Segmentation.pdf>`_
 
   * Pre-class content
      * Sliding Window Object Detection : `Video <https://youtu.be/oWD5N80Vpz8>`_ 
      * Early One-Stage and Two-Stage Object Detector Algorithms: `Video <https://youtu.be/4Rc4qs7WQSQ>`_ 
      * State of the Art Object Detection Algorithms & Detection Datasets: `Video <https://youtu.be/MZ3EAp4QHug>`_ 
      * An Overview of Semantic Segmentation Algorithms: `Video <https://youtu.be/igr2S0RIsSc>`_ 
-	 * State of the Art Semantic Segmentation Algorithms, Segmentation Datasets: `Video <https://youtu.be/veqr3TZfrDg>`_ 
+     * State of the Art Semantic Segmentation Algorithms, Segmentation Datasets: `Video <https://youtu.be/veqr3TZfrDg>`_ 
      
   * In-class Exercises
-     * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://opensees.berkeley.edu>`_
+     * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6?usp=sharing>`_
      * Exercise 2: Crack Segmentation: `Notebook <https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6>`_
 
 * Day 3 - `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_
