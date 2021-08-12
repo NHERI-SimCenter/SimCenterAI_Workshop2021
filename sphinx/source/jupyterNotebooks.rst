@@ -5,7 +5,7 @@ Notebooks
 
 The following sets of links can be used to access the exercise files by various means.
 
-The first **Fork** link will open the exercise file on Github. From here, the user can download the files and run on their locally installed Jupyter server, or just view the rendered notebooks along with their source code and results.
+The first link will open the exercise file on Github. From here, the user can download the files and run on their locally installed Jupyter server, or just view the rendered notebooks along with their source code and results.
 
 The second link will open the notebook on Googles Colab platform. Users with a Google accound can use this service to freely run the exercises directly from their browsers with no installation whatsoever. Code will be executed on Google's servers.
 
@@ -104,7 +104,7 @@ Day 2: `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Worksho
 
   .. raw:: html
 
-     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/exercises/day2/RoofDetection_Pytorch.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1_SySjQG-l6Rt6G2xY6G_LNUhpkfxa4E0"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=exercises/day2/CrackSegmentation_Pytorch.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/exercises/day2/RoofDetection_Pytorch.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li><li><a href="https://mybinder.org/v2/gh/NHERI-SimCenter/SimCenterAI_Workshop2021/HEAD?filepath=exercises/day2/RoofDetection_Pytorch.ipynb"><img src="https://mybinder.org/badge_logo.svg" alt="Open in Binder"/></a></li></ul>
 
 
 

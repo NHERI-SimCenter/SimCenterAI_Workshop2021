@@ -62,6 +62,7 @@ html_theme_options = {
   "style_nav_header_background": "#F2F2F2"
 }
 html_logo = logo = "_static/logo.png"
+html_show_sourcelink = False
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
