@@ -48,10 +48,23 @@ days:
   - Convolutional Neural Networks: "https://youtube.com/embed/oEIdAsVVhvw" 
   - Attention Networks: "https://youtube.com/embed/W4uqA9rwcKk" 
   - Transformers:  "https://youtube.com/embed/XM9R2H_Sw_I"   
+  demos:
+  - title: "Hand-written digit classification with single-layer perceptron"
+    notebook: 'notebooks/day3/demo1.ipynb'
+    colab: 'https://colab.research.google.com/drive/1-MT63AZtztUOQ_Z4cWyVuqppHvqhMs8L'
+  - title: "Hand-written digit classification with convolutional neural networks"
+    notebook: 'notebooks/day3/demo2.ipynb'
+    colab: 'https://colab.research.google.com/drive/15LdpfszkkK55yf2jRlecOn9ZR6PbLmUg'
+  - title: "Hand-written digit classification with attention networks"
+    notebook: 'notebooks/day3/demo3.ipynb'
+    colab: 'https://colab.research.google.com/drive/1nO8soKThc35CoxCqJx_XFeOk6xVJs9iC'
+  - title: "Hand-written digit classification with transformer"
+    notebook: 'notebooks/day3/demo4.ipynb'
+    colab: 'https://colab.research.google.com/drive/1k1tRJexLSwddt3TGttNdWqanT68Oa5mu'
   exercises:
   - title: "Hand-written digit classification with multi-layer perceptron"
     notebook: 'exercises/day3/exercise1.ipynb'
-
+    colab: 'https://colab.research.google.com/drive/1Y3rgQlhlNIoArdSaa6bp_Tv8TwVQVRFY'
   - title: "Roof classification with Transformation Learning"
     notebook: 'exercises/day3/exercise2.ipynb'
-
+    colab: 'https://colab.research.google.com/drive/19ILt9GHVKxZrWrAkbBgIBWKieWMY7YYX'

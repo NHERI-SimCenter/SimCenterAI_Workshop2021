@@ -144,6 +144,36 @@ Day 3: `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCent
             Transformers <p><iframe width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://youtube.com/embed/XM9R2H_Sw_I" ></iframe></p>
 
 
+* Hand-written digit classification with single-layer perceptron
+
+  .. raw:: html
+
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/notebooks/day3/demo1.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1-MT63AZtztUOQ_Z4cWyVuqppHvqhMs8L"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li></ul>
+
+
+
+* Hand-written digit classification with convolutional neural networks
+
+  .. raw:: html
+
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/notebooks/day3/demo2.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/15LdpfszkkK55yf2jRlecOn9ZR6PbLmUg"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li></ul>
+
+
+
+* Hand-written digit classification with attention networks
+
+  .. raw:: html
+
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/notebooks/day3/demo3.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1nO8soKThc35CoxCqJx_XFeOk6xVJs9iC"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li></ul>
+
+
+* Hand-written digit classification with transformer
+
+  .. raw:: html
+
+     <ul><li><a href="https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/tree/master/notebooks/day3/demo4.ipynb"><img src="https://img.shields.io/github/forks/NHERI-SimCenter/SimCenterAI_Workshop2021?label=Github&style=social" alt="Open in Github"/></a></li><li><a href="https://colab.research.google.com/drive/1k1tRJexLSwddt3TGttNdWqanT68Oa5mu"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a></li></ul>
+
+
 
 * Hand-written digit classification with multi-layer perceptron
 
