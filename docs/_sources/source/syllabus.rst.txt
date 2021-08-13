@@ -40,17 +40,17 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
      * Exercise 4: BRAILS City Builder: `Notebook <https://colab.research.google.com/drive/1tG6xVRCmDyi6K8TWgoNd_31vV034VcSO?usp=sharing>`_ 
 
     
-* Day 2 - `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/ObjectDetection.pdf>`_ and `Semantic Segmentation <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/Semantic Segmentation.pdf>`_
+* Day 2 - `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/ObjectDetection.pdf>`_ and `Semantic Segmentation <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day2/ImageSegmentation.pdf>`_
 
   * Pre-class content
      * Sliding Window Object Detection : `Video <https://youtu.be/oWD5N80Vpz8>`_ 
      * Early One-Stage and Two-Stage Object Detector Algorithms: `Video <https://youtu.be/4Rc4qs7WQSQ>`_ 
      * State of the Art Object Detection Algorithms & Detection Datasets: `Video <https://youtu.be/MZ3EAp4QHug>`_ 
-     * An Overview of Semantic Segmentation Algorithms: `Video <https://youtu.be/igr2S0RIsSc>`_ 
-     * State of the Art Semantic Segmentation Algorithms, Segmentation Datasets: `Video <https://youtu.be/veqr3TZfrDg>`_ 
+     * An Overview of Image Segmentation Algorithms: `Video <https://youtu.be/igr2S0RIsSc>`_ 
+     * State of the Art Image Segmentation Algorithms, Segmentation Datasets: `Video <https://youtu.be/veqr3TZfrDg>`_ 
      
   * In-class Exercises
-     * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://colab.research.google.com/drive/1_SySjQG-l6Rt6G2xY6G_LNUhpkfxa4E0?usp=sharing>`_
+     * Exercise 1: Roof Detection through Semantic Segmentation: `Notebook <https://colab.research.google.com/drive/1_SySjQG-l6Rt6G2xY6G_LNUhpkfxa4E0>`_
      * Exercise 2: Crack Segmentation: `Notebook <https://colab.research.google.com/drive/1LlDkiEQwp-GV71DxAnwTAQyAjypIyPb6>`_
 
 * Day 3 - `Neural Network Architectures <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/presentations/day3/NeuralNetworkArchitectures.pdf>`_
@@ -61,6 +61,12 @@ The bootcamp is organized as a series of pre-recorded video lectures and live on
      * Attention Networks: `Video <https://youtu.be/W4uqA9rwcKk>`_ 
      * Transformers: `Video <https://youtu.be/XM9R2H_Sw_I>`_ 
 
+  * Demos
+     * Demo 1: `Hand-written digit classification with single-layer perceptron <https://colab.research.google.com/drive/1-MT63AZtztUOQ_Z4cWyVuqppHvqhMs8L>`_
+     * Demo 2: `Hand-written digit classification with convolutional neural networks <https://colab.research.google.com/drive/15LdpfszkkK55yf2jRlecOn9ZR6PbLmUg>`_
+     * Demo 3: `Hand-written digit classification with attention networks <https://colab.research.google.com/drive/1nO8soKThc35CoxCqJx_XFeOk6xVJs9iC>`_
+     * Demo 4: `Hand-written digit classification with transformer <https://colab.research.google.com/drive/1k1tRJexLSwddt3TGttNdWqanT68Oa5mu>`_
+
   * In-class Exercises
-     * Exercise 1: `Hand-written digit classification with multi-layer perceptron <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/exercises/day3/exercise1.ipynb>`_
-     * Exercise 2: `Roof classification with Transformation Learning <https://github.com/NHERI-SimCenter/SimCenterAI_Workshop2021/blob/master/exercises/day3/exercise2.ipynb>`_
+     * Exercise 1: `Hand-written digit classification with multi-layer perceptron <https://colab.research.google.com/drive/1Y3rgQlhlNIoArdSaa6bp_Tv8TwVQVRFY>`_
+     * Exercise 2: `Roof classification with Transformation Learning <https://colab.research.google.com/drive/19ILt9GHVKxZrWrAkbBgIBWKieWMY7YYX>`_
