@@ -52,13 +52,13 @@ Day 2 - `Object Detection <https://github.com/NHERI-SimCenter/SimCenterAI_Worksh
 
             <p><iframe width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://youtube.com/embed/MZ3EAp4QHug" ></iframe></p>
  
-     * An Overview of Semantic Segmentation Algorithms:
+     * An Overview of Image Segmentation Algorithms:
 	 
        .. raw:: html
 
             <p><iframe width="560" height="315" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen src="https://www.youtube.com/embed/igr2S0RIsSc" ></iframe></p>
 
-	 * State of the Art Semantic Segmentation Algorithms, Segmentation Datasets:
+	 * State of the Art Image Segmentation Algorithms, Segmentation Datasets:
 
        .. raw:: html
 
